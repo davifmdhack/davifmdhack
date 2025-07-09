@@ -33,7 +33,7 @@
 | Domain | Description | Techs |
 |--------|-------------|-------|
 | 🧬 **Medical Agents** | Chatbots, multi-agent planners, RAGs for medical evidence retrieval | `LangGraph` `Llama-Index` `Crew-AI` `Python` `VectorDB` |
-| 📊 **Adeno Predict Model** | MRI-based prediction of macroadenoma consistency with explainability | `SVM` `KNN` `Decision Tree` `XGBoost` `SHAP` `Random Forest` `Python` |
+| 📊 **AdenoPredict** | MRI-based prediction of macroadenoma consistency with explainability | `SVM` `KNN` `Decision Tree` `XGBoost` `SHAP` `Random Forest` `Python` |
 | 📱 **WhatsApp Summarizer** | Group summarizer bot using Baileys + Ollama with reading time estimate | `Node.js` `Python` `LLM Ollama` |
 | 🧠 **EEG Alzheimer Detection** | EEG for topological and inferential analysis for Alzheimer's prediction applied to the OpenNeuro Dataset | `MNE` `Pytorch` `SVM` `Decision Tree` | 
 
