@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/109975635?v=4" height="120"><br>
+  <img src="https://img.shields.io/badge/Yeah%2C%20that's%20the%20best%20dog%20in%20the%20world-🐶-B266FF?style=for-the-badge"/>
+</p>
+
+</br>
+
 <h2 align="center">Davi Ferreira, MD, MSc • AI Engineer</h2>
 <p align="center">
   🥼 Physician & AI Engineer at <b>@Voa-Health</b> 🤖 <br>
