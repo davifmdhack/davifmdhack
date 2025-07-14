@@ -55,11 +55,6 @@
    
 ---
 
-
-<img alt="" src=""/>
-<img alt="" src=""/>
-<img alt="" src=""/>
-
 ### 🛠️ Highlighted Projects
 
 | Domain | Description | Techs |
