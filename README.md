@@ -30,7 +30,6 @@
 - 📊 **Scientific Research**: Statistical modeling, clinical data, and medical storytelling  
 <p align="left">
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-Vector%20Database-orange?style=for-the-badge"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
